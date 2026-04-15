@@ -1,0 +1,5 @@
+streamlit 
+requests 
+faster-whisper 
+sounddevice 
+scipy
